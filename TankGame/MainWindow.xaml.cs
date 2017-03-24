@@ -22,6 +22,10 @@ namespace TankGame
             InitializeComponent();
             Map MainMap = new Map();
             MainMap.Draw(MainCanvas);
+            while(true)
+            {
+
+            }
 
         }
     }

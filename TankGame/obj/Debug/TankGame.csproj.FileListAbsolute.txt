@@ -1,1 +1,14 @@
 C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\bin\Debug\TankGame.exe.config
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\bin\Debug\TankGame.exe
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\bin\Debug\TankGame.pdb
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\TankGame.csprojResolveAssemblyReference.cache
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\MainWindow.g.cs
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\App.g.cs
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\TankGame_MarkupCompile.cache
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\TankGame_MarkupCompile.lref
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\MainWindow.baml
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\TankGame.g.resources
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\TankGame.Properties.Resources.resources
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\TankGame.csproj.GenerateResource.Cache
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\TankGame.exe
+C:\Users\WOTU KOZAK\Desktop\C# Game\TankGame\TankGame\obj\Debug\TankGame.pdb
